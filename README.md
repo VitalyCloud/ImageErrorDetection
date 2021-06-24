@@ -6,4 +6,7 @@
 На выходе получится уже исправленное изображение на которое можно наложить маску, чтобы увидеть пиксели, в которых были обнаруженны ошибки.
 
 ![Example 1/2](https://github.com/VitalyCloud/ImageErrorDetection/blob/01adb4aaf4f7797baec029e9d08b5afdd13d2f6e/Pics/1.%20Tree.png)
-![Example 1/2 (Errors)](Pics/2. Tree (with corrupterd).png)
+![Example 1/2 (Errors)](https://github.com/VitalyCloud/ImageErrorDetection/blob/194fe9990e403a3dcf026bf2129012080865beff/Pics/2.%20Tree%20(with%20corrupterd).png)
+
+![Example 2/2](https://github.com/VitalyCloud/ImageErrorDetection/blob/e07d6a30a261cad624de320620cba72d16b8e933/Pics/3.%20Dog.png)
+![Example 2/2 (Errors)](https://github.com/VitalyCloud/ImageErrorDetection/blob/e07d6a30a261cad624de320620cba72d16b8e933/Pics/4.%20Dog%20(with%20corrupted).png)
